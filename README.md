@@ -8,3 +8,5 @@
 vAHiD55555/vAHiD55555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-share-url="https://v2535xxx.link" data-comment="Share iT"></script>
